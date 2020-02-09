@@ -1,0 +1,33 @@
+.sidebar {
+  width: 40%;
+  float: left;
+  background-color: crimson;
+  border: 2px solid white;
+  padding: 9px;
+  margin: 20px;
+}
+p1 {
+  font-style: oblique;
+}
+p2 {
+  float: left;
+  color: crimson;
+  font-size: x-large;
+  font-style: italic;
+}
+img {
+  float: left;
+  padding: 12px;
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+h2 {
+  color: crimson;
+  text-align: center;
+}
+body {
+  background-color: black;
+}
